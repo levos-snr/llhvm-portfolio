@@ -232,7 +232,8 @@ a:hover {
 }
 
 .card .describ{
-  margin: auto ;
+  font-size: 1em;
+  padding-bottom: 1rem;
 
 }
 
