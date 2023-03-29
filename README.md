@@ -15,6 +15,13 @@ You can view a live demo of this portfolio website here: https://llhvm-portfolio
 - Preloader: A preloader is included to improve the user experience while the website loads.
 - 404 page: A custom 404 page is included in case the user tries to access a page that does not exist.
 - Responsive : on both phone and large display
+- Formcarry mailing system :Formcarry allows you to collect submissions from your own HTML form, without any back-end code. You can get notification emails for submissions, upload files from your form, use best-in-class spam protection and integrate with other apps.
+  
+### Formcarry 
+- Your unique URL allows you to get emails from your form, send auto-responses, upload files and trigger Zapier zaps, basically more than you expect from a HTML form.
+An example formcarry endpoint looks like this:
+`https://formcarry.com/s/XXXXXXXX`
+- Documentation : `https://formcarry.com/docs/getting-started` 
 
 
 ## Technologies Used
